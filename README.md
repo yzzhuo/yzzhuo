@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yanzu Zhuo!
+# 👋 Hi, I'm Yanhu!
 Senior Frontend Developer & UX Designer | Passionate about User Experience & Accessibility
 
 🔹 6+ years of experience in React, TypeScript, and Node.js  
