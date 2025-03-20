@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yanhu!
+# 👋 Hi, I'm June!
 Senior Frontend Developer & UX Designer | Passionate about User Experience & Accessibility
 
 🔹 6+ years of experience in React, TypeScript, and Node.js  
